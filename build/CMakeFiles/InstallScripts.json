@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/peterjohngeorgekilian/github/C++GameEngine/build/cmake_install.cmake",
+		"/Users/peterjohngeorgekilian/github/C++GameEngine/build/src/cmake_install.cmake",
+		"/Users/peterjohngeorgekilian/github/C++GameEngine/build/src/mod_graphics/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

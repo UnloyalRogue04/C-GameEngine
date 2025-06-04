@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmod_graphics.a CMakeFiles/mod_graphics.dir/mod_graphics.cpp.o
+/usr/bin/ranlib libmod_graphics.a
