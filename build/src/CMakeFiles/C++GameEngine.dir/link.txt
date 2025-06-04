@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/opt/homebrew/lib CMakeFiles/C++GameEngine.dir/main.cpp.o CMakeFiles/C++GameEngine.dir/engine.cpp.o -o C++GameEngine  mod_graphics/libmod_graphics.a
